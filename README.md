@@ -1,33 +1,36 @@
-# Data_projects_TripleTen
+# TripleTen Projects
 
-This repository contains analytics and data science projects completed through TripleTen. Each project is based on a real-world business case and demonstrates practical work in data cleaning, exploratory data analysis, statistical reasoning, and business-driven insight generation using Python and related tools.
+This repository contains analytics and data science projects completed through TripleTen. Each project is based on a real-world business case and demonstrates practical work in data cleaning, exploratory data analysis, statistical reasoning, machine learning, and business-focused decision support using Python.
 
 ## Repository Focus
 - Exploratory Data Analysis (EDA)
 - Statistical Data Analysis
-- Business Case Problem Solving
-- Data-Driven Decision Making
-- Forecasting and Trend Analysis
+- Machine Learning
+- Time Series Forecasting
+- Business Problem Solving
 
 ## Projects
 
 | Project No. | Project Title | Description | Skills / Tools |
 |------------|---------------|-------------|----------------|
-| 1 | Statistical Data Analysis: Megaline Plans | Analyzed customer behavior for Megaline’s Surf and Ultimate prepaid plans using data from 500 users. Calculated monthly usage and revenue patterns to determine which plan generated higher revenue and should receive greater advertising focus. | Python, Pandas, NumPy, data cleaning, aggregation, statistical analysis, revenue analysis, visualization |
-| 2 | Video Game Sales Forecasting | Studied historical video game sales, platforms, genres, user reviews, expert reviews, and ESRB ratings to identify patterns associated with commercial success. The analysis was used to support 2017 campaign planning for the online game store Ice. | Python, Pandas, EDA, trend analysis, data preprocessing, business analysis, visualization |
-| 3 | Integrated Project: Video Game Sales Forecasting | Completed an end-to-end analytical case study using open-source gaming market data to evaluate performance drivers across platforms and genres. Focused on identifying high-potential products and generating actionable insights for marketing and advertising strategy. | Python, Pandas, exploratory analysis, hypothesis-driven analysis, market trend analysis, business insights |
+| 1 | Statistical Data Analysis: Megaline Plans | Analyzed customer behavior for Megaline’s Surf and Ultimate prepaid plans using data from 500 users. Calculated monthly usage patterns, overage behavior, and plan-based revenue to determine which prepaid plan generated higher revenue and should receive greater advertising focus. | Python, Pandas, NumPy, data cleaning, aggregation, statistical analysis, revenue analysis, visualization |
+| 2 | Video Game Sales Forecasting | Studied historical video game sales, genres, platforms, user reviews, critic reviews, and ESRB ratings to identify patterns associated with commercial success. Used the analysis to support campaign planning and product strategy for the online game store Ice. | Python, Pandas, EDA, data preprocessing, trend analysis, business analysis, visualization |
+| 3 | Time Series Forecasting: Sweet Lift Taxi | Built a time series forecasting model to predict the number of taxi orders for the next hour using historical airport order data. Resampled the data by hour, analyzed temporal patterns, trained multiple models with hyperparameter tuning, and evaluated performance using RMSE. | Python, Pandas, time series analysis, resampling, feature engineering, machine learning, model evaluation, RMSE |
 
 ## About This Repository
 
-These projects reflect my development in analytics and applied data science through hands-on case studies. Each project emphasizes translating raw data into structured analysis and actionable business recommendations.
+These projects reflect my development in analytics and applied data science through hands-on case studies. Each project emphasizes translating raw data into structured analysis, model-driven reasoning, and actionable business recommendations.
 
 ## Tools and Technologies
 - Python
 - Pandas
 - NumPy
 - Matplotlib
+- scikit-learn
 - Jupyter Notebook
 - Statistical Analysis
+- Machine Learning
+- Time Series Forecasting
 - Data Visualization
 
 ## Goal
